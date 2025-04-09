@@ -41,26 +41,34 @@ Setiap data nasabah disimpan sebagai dictionary dengan atribut sebagai berikut:
 
 A. **Navigasi Menu**
    - Interaktif berbasis pilihan angka, mudah digunakan bahkan oleh pengguna awam.
-https://github.com/yb-mahendra/pythonportfolio/blob/eca98b92989eb46e28b1cfe4eda595ae9c4833f2/assets/MAIN%20MENU.png
+![Menu Utama](assets/MAIN%20MENU.png)
 
 B. **Tampilkan Daftar Nasabah**
    - Menampilkan seluruh data dalam bentuk tabel.
+![Menu 1](assets/MENU%201.png)
      
 C. **Filter Jenis Kredit**
    - Melihat nasabah berdasarkan jenis kredit tertentu.
+![Menu 2](assets/MENU%202.png)
      
 D. **Filter Maksimum Kredit**
    - Menyaring nasabah dengan maksimum kredit di atas jumlah tertentu.
+![Menu 3](assets/MENU%203.png)
      
 E. **Tambah Data Nasabah**
    - Memasukkan data baru dengan validasi dan CIF unik otomatis.
+![Menu 4](assets/MENU%204.png)
+![Hasil Menu 4](assets/MENU%204%20hasil.png)
      
 F. **Edit Data Nasabah**
    - Mengubah informasi nasabah berdasarkan nomor urut.
+![Menu 5](assets/MENU%205.png)
+![Hasil Menu 5](assets/MENU%205%20hasil.png)
      
 G. **Hapus Data Nasabah**
    - Menghapus data nasabah dari sistem.
-
+![Menu 6](assets/MENU%206.png)
+![Hasil Menu 6](assets/MENU%206%20hasil.png)
 
 ---
 
