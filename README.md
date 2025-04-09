@@ -41,7 +41,7 @@ Setiap data nasabah disimpan sebagai dictionary dengan atribut sebagai berikut:
 
 A. **Navigasi Menu**
    - Interaktif berbasis pilihan angka, mudah digunakan bahkan oleh pengguna awam.
-![Tampilan MENU 7](assets/MENU_7.png)
+![Tampilan Menu Utama](assets/MENU_7.png)
 
 B. **Tampilkan Daftar Nasabah**
    - Menampilkan seluruh data dalam bentuk tabel.
