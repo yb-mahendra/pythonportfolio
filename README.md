@@ -1,11 +1,11 @@
-# pythonportfolio
+# Python Capstone Project
 Phyton Experiment Code
 
-# 💳 Credit Management System (CLI Version)
+# Credit Management System (CLI Version)
 
 Program sederhana berbasis teks (Command-Line Interface) yang dirancang untuk mengelola data nasabah kredit pada lembaga keuangan seperti bank atau koperasi. Program ini dibuat sebagai final project untuk pembelajaran Python dasar, khususnya implementasi fitur CRUD (Create, Read, Update, Delete).
 
-## 📌 Deskripsi Proyek
+## Deskripsi Proyek
 
 Credit Management System memungkinkan pengguna untuk:
 - Menyimpan data nasabah dalam bentuk list of dictionaries
@@ -19,7 +19,7 @@ Sistem ini sepenuhnya berbasis teks dan tidak membutuhkan instalasi library tamb
 
 ---
 
-## 📋 Struktur Data Nasabah
+## Struktur Data Nasabah
 
 Setiap data nasabah disimpan sebagai dictionary dengan atribut sebagai berikut:
 
@@ -35,7 +35,7 @@ Setiap data nasabah disimpan sebagai dictionary dengan atribut sebagai berikut:
 
 ---
 
-## 🎯 Fitur Utama
+## Fitur Utama
 
 1. **Tampilkan Daftar Nasabah**
    - Menampilkan seluruh data dalam bentuk tabel.
@@ -54,7 +54,7 @@ Setiap data nasabah disimpan sebagai dictionary dengan atribut sebagai berikut:
 
 ---
 
-## ▶️ Cara Menjalankan Program
+## Cara Menjalankan Program
 
 Pastikan Python sudah terinstal di perangkat Anda. Jalankan file `.py` menggunakan terminal atau command prompt:
 
