@@ -39,20 +39,28 @@ Setiap data nasabah disimpan sebagai dictionary dengan atribut sebagai berikut:
 
 ## Fitur Utama
 
-1. **Tampilkan Daftar Nasabah**
-   - Menampilkan seluruh data dalam bentuk tabel.
-2. **Filter Jenis Kredit**
-   - Melihat nasabah berdasarkan jenis kredit tertentu.
-3. **Filter Maksimum Kredit**
-   - Menyaring nasabah dengan maksimum kredit di atas jumlah tertentu.
-4. **Tambah Data Nasabah**
-   - Memasukkan data baru dengan validasi dan CIF unik otomatis.
-5. **Edit Data Nasabah**
-   - Mengubah informasi nasabah berdasarkan nomor urut.
-6. **Hapus Data Nasabah**
-   - Menghapus data nasabah dari sistem.
-7. **Navigasi Menu**
+A. **Navigasi Menu**
    - Interaktif berbasis pilihan angka, mudah digunakan bahkan oleh pengguna awam.
+![Tampilan MENU 7](assets/MENU_7.png)
+
+B. **Tampilkan Daftar Nasabah**
+   - Menampilkan seluruh data dalam bentuk tabel.
+     
+C. **Filter Jenis Kredit**
+   - Melihat nasabah berdasarkan jenis kredit tertentu.
+     
+D. **Filter Maksimum Kredit**
+   - Menyaring nasabah dengan maksimum kredit di atas jumlah tertentu.
+     
+E. **Tambah Data Nasabah**
+   - Memasukkan data baru dengan validasi dan CIF unik otomatis.
+     
+F. **Edit Data Nasabah**
+   - Mengubah informasi nasabah berdasarkan nomor urut.
+     
+G. **Hapus Data Nasabah**
+   - Menghapus data nasabah dari sistem.
+
 
 ---
 
