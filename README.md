@@ -1,5 +1,7 @@
-# Python Capstone Project
-Phyton Experiment Code
+# README
+Harap baca ini sebelum Anda melanjutkan menggunakan program ini atau jika Anda mengalami masalah saat menjalankan program ini.
+
+Program ini dibuat sebagai capstone project saya sebagai salah satu syarat kelulusan program Job Connector Business & Data Analitycs di Purwadhika. Program ini membahas tentang pembuatan fungsionalitas CRUD. Jadi ini hanyalah program sederhana untuk membantu saya dalam perjalanan belajar saya mempelajari Product Management, Programming & Data Analitycs.
 
 # Credit Management System (CLI Version)
 
